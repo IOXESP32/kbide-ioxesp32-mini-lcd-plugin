@@ -2,15 +2,15 @@
   "name": "ioxesp32-mini-lcd",
   "title" : "IOXESP32 MiniLCD",
   "keywords": "IOXESP32 MiniLCD",
-  "description": "ไลบารี่สำหรับบอร์ด iKB-1 สำหรับแพลตฟอร์ม Arduino",
-  "homepage": "https://www.inex.co.th/",
+  "description": "Plugin for IOXESP32 Mini LCD shield",
+  "homepage": "https://docs.ioxesp32.com/",
   "license": "MIT",
-  "git": "https://github.com/maxpromer/iKB-1_Arduino",
-  "author": "INEX",
-  "email": "tech@inex.co.th",
-  "url": "https://www.inex.co.th/",
-  "version": "1.1.0",
+  "git": "https://github.com/IOXESP32/kbide-ioxesp32-mini-lcd-plugin",
+  "author": "IOXhop",
+  "email": "sonthaya.nt@hotmail.com",
+  "url": "https://docs.ioxesp32.com/",
+  "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
-  "image" : "/static/cover.png"
+  "image" : "/static/cover.jpg"
 }
