@@ -5,12 +5,12 @@
   "description": "Plugin for IOXESP32 Mini LCD shield",
   "homepage": "https://docs.ioxesp32.com/",
   "license": "MIT",
+  "category" : "Display",
   "git": "https://github.com/IOXESP32/kbide-ioxesp32-mini-lcd-plugin",
-  "author": "IOXhop",
+  "author": "TFT_eSPI by Bodmer | ร้านไอโอเอ็กซ์ฮ๊อบ",
   "email": "sonthaya.nt@hotmail.com",
   "url": "https://docs.ioxesp32.com/",
   "version": "1.0.0",
-  "board" : "",
   "platform": ["arduino-esp32"],
   "image" : "/static/cover.jpg"
 }
